@@ -148,8 +148,8 @@ plt.show()
 ```
 I think that 3 subgroups of the data better show the main segmentations of customers:
 - Red Cluster with customers with low spending score but various age and mostly high annual income
-- Pink Cluster with customers with low or avarege annual income, age below 40 and avarege spending score
-- Blue Cluster with customers high spending score, age below 30 and high or avarege annual income
+- Pink Cluster with customers with low or average annual income, age below 40 and average spending score
+- Blue Cluster with customers high spending score, age below 30 and high or average annual income
   
 ![Picture](https://github.com/claudia13062013/Short_Customer_Segmentation/blob/main/plots/3dclustering.jpg)
 
